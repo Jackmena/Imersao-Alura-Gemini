@@ -1,4 +1,4 @@
-let info = [
+let dados = [
   {
     titulo: "Naruto",
     descricao:
