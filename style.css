@@ -102,6 +102,14 @@ section button:hover {
   margin: 0.5rem 0; /* Margem acima e abaixo */
 }
 
+/* Estiliza a mensagem de erro da busca */
+.erro {
+  color: purple;
+  font-weight: bold;
+  font-size: 1.5rem;
+  background: #ffffff;
+}
+
 /* Estiliza o rodapé da página */
 footer {
   background-color: #0000; /* Cor de fundo do rodapé */
