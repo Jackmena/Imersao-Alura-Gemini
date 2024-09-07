@@ -31,4 +31,4 @@ Sinta-se à vontade para contribuir com este projeto! Se você encontrar algum b
 **Vamos juntos construir a maior comunidade de fãs de anime da internet!**
 
 **[Jackson Mena do Couto]**
-**[https://github.com/Jackmena/Jackmena]**
+**[https://github.com/Jackmena]**
